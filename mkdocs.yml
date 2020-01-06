@@ -40,7 +40,10 @@ nav:
       - 'Introduction': 'user-documentation/user-intro.md'
       - 'Resource Nodes': 'user-documentation/resource-nodes.md'
       - 'From Objects to Resource Nodes': 'user-documentation/objects_to_resource_nodes.md'
-      - 'Media': 'user-documentation/media.md'
+      - Media:
+          - 'Add Media': 'user-documentation/media.md'
+          - 'Add Video': 'user-documentation/adding-video.md'
+          - 'Add Audio': 'user-documentation/adding-audio.md'
       - 'Create a Resource Node': 'user-documentation/creating-a-node.md'
       - 'Collections': 'user-documentation/collections.md'
       - 'Paged Content': 'user-documentation/paged-content.md'
